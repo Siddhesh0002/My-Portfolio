@@ -177,7 +177,7 @@ a:hover{
     width: auto;
   }
   .para2{
-    font-size: 33px;
+    font-size: 25px;
   }
 }
 
@@ -405,6 +405,10 @@ a:hover{
 @media screen and (max-width: 800px) {
   .cardssect{
     width: 80%;
+  }
+  .title{
+    padding-left: 2px;
+    padding-right: 2px;
   }
   
 }

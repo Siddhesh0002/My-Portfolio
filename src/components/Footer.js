@@ -10,8 +10,8 @@ const Footer = () => {
           <li >
             <a href='https://github.com/Siddhesh0002' ><FiGithub size={20} /></a></li>
           <li >
-            <a href='#/'><FiInstagram size={20} /></a></li>
-          <li ><a href='#/'><FiTwitter size={20} /></a></li>
+            <a href='https://www.instagram.com/inside_sidz_world/'><FiInstagram size={20} /></a></li>
+          <li ><a href='https://twitter.com/Siddhes29888021'><FiTwitter size={20} /></a></li>
           <li ><a href='https://www.linkedin.com/in/siddhesh-dongare-945b16190/' ><FiLinkedin size={20} /></a></li>
           
       </ul>
